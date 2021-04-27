@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**fernando-silva-dev/fernando-silva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fernando-silva-dev/fernando-silva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 👩‍💻 I'm working as Analyst Developer at <a href="https://ambevtech.com.br/" target="_blank">AmbevTech<a /> - Blumenau/SC<br />
 - 📕 I’m currently studying Analysis and Development of Systems at Instituto Federal de Santa Catarina<br />
