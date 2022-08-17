@@ -22,12 +22,19 @@
 
 ### My stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=fernando-silva-dev">
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=fernando-silva-dev&count_private=true">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-silva-dev&layout=compact" />
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-silva-dev&layout=compact" />
+</a>
 
-![GitHub User's stars](https://img.shields.io/github/stars/fernando-silva-dev?style=social)
+<a href="#">
 
+  ![GitHub User's stars](https://img.shields.io/github/stars/fernando-silva-dev?style=social)
+
+</a>
 
 ### Find me 🔍
 
