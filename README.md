@@ -44,3 +44,6 @@
 <a href='https://www.npmjs.com/~fernando.silva' target="_blank">
   <img src="https://img.shields.io/badge/NPM-FFF?style=for-the-badge&logo=npm"/>
 </a>
+<a href='https://github.com/fernando-silva-dev' target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
