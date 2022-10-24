@@ -7,7 +7,7 @@
 - 3 years being an Analyst Developer at <a href="https://ambevtech.com.br/" target="_blank">AmbevTech</a>
   - C# .Net
   - Microservice Architecture
-  - Domain Driven Development
+  - Domain Driven Design
   - javascript React.js/react-native
   - Azure CI + CD + AKS
 
