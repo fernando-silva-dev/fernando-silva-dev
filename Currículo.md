@@ -4,7 +4,7 @@
 - Brasileiro
 - Solteiro
 - 24 anos
-- Nascido em Blumenaur-SC e morando em Gaspar-SC
+- Nascido em Blumenau-SC e morando em Gaspar-SC
 
 ## Formação
 - Cursando Analise e Desenvolvimento de Sistemas, Instituto Federal de
@@ -20,7 +20,7 @@ Santa Catarina.
 ## Experiência profissional
 > <strong>HBSIS Soluções em TI</strong> <br>
 Área: Análise e Desenvolvimento de Sistemas <br>
-Cargo: Analista Desenvolvedor jr. <br>
+Cargo: Analista Desenvolvedor III <br>
 Início: 09/2019
 
 > <strong>Laboratório de Análises Ambientais Beckhauser e Barros</strong> <br>
