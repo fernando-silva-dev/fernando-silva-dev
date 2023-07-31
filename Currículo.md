@@ -3,12 +3,12 @@
 ## Dados pessoais
 - Brasileiro
 - Solteiro
-- 2 anos
+- 25 anos
 - Gaspar-SC
 
 ## Formação
 - Cursando Analise e Desenvolvimento de Sistemas, Instituto Federal de
-Santa Catarina.
+Santa Catarina. (Término previsto para 12/23)
 - Curso Técnico em Química Integrado ao Ensino Médio, Instituto Federal de
 Santa Catarina.
 - Aprendizagem industrial em Informática, SENAI-SC.
