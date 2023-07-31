@@ -3,8 +3,8 @@
 ## Dados pessoais
 - Brasileiro
 - Solteiro
-- 24 anos
-- Nascido em Blumenau-SC e morando em Gaspar-SC
+- 2 anos
+- Gaspar-SC
 
 ## Formação
 - Cursando Analise e Desenvolvimento de Sistemas, Instituto Federal de
@@ -17,23 +17,22 @@ Santa Catarina.
 - Inglês fluente (Escola de idiomas CNA)
 - Espanhol Básico (IFSC)
 
-## Experiência profissional
+## Conhecimentos
+ - C# (.Net)
+ - RESTful
+ - Javascript (React.js e react-native)
+ - SQL (SQL server, PostgreSQL, Oracle)
+ - Arquitetura de microsserviços
+ - DDD
+ - CI + CD
+ - Testes automatizados
+ - Git
+
+## Experiência profissional na área
 > <strong>HBSIS Soluções em TI</strong> <br>
 Área: Análise e Desenvolvimento de Sistemas <br>
 Cargo: Analista Desenvolvedor III <br>
 Início: 09/2019
-
-> <strong>Laboratório de Análises Ambientais Beckhauser e Barros</strong> <br>
-Área: Análises Bacteriológicas <br>
-Cargo: Estagiário <br>
-Início: 04/2016 <br>
-Término: 11/2016 <br>
-
-> <strong>Cooperativa de Crédito do Vale do Itajaí - VIACREDI</strong> <br>
-Área: Administrativo <br>
-Cargo: Aprendiz Cooperativo <br>
-Início: 19/01/2015 <br>
-Término: 06/06/2016 <br>
 
 ### Onde me achar:
 
