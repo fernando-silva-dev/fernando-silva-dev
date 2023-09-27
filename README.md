@@ -4,7 +4,7 @@
 
 ### My experience
 
-- 3 years being an Analyst Developer at <a href="https://ambevtech.com.br/" target="_blank">AmbevTech</a>
+- 4 years being an Analyst Developer at <a href="https://ambevtech.com.br/" target="_blank">AmbevTech</a>
   - C# .Net
   - Microservice Architecture
   - Domain Driven Design
