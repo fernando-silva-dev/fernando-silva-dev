@@ -3,12 +3,13 @@
 ## Dados pessoais
 - Brasileiro
 - Solteiro
-- 25 anos
+- 26 anos
 - Gaspar-SC
 
 ## Formação
-- Cursando Analise e Desenvolvimento de Sistemas, Instituto Federal de
-Santa Catarina. (Término previsto para 12/23)
+- Cursando curso técnico em mecânica, Instituto Federal Catarinense.
+- Tecnólogo em Analise e Desenvolvimento de Sistemas, Instituto Federal de
+Santa Catarina.
 - Curso Técnico em Química Integrado ao Ensino Médio, Instituto Federal de
 Santa Catarina.
 - Aprendizagem industrial em Informática, SENAI-SC.
@@ -21,7 +22,7 @@ Santa Catarina.
  - C# (.Net)
  - RESTful
  - Javascript (React.js e react-native)
- - SQL (SQL server, PostgreSQL, Oracle)
+ - SQL
  - Arquitetura de microsserviços
  - DDD
  - CI + CD
@@ -29,9 +30,9 @@ Santa Catarina.
  - Git
 
 ## Experiência profissional na área
-> <strong>HBSIS Soluções em TI</strong> <br>
+> <strong>HBSIS Soluções em TI/AmbevTech</strong> <br>
 Área: Análise e Desenvolvimento de Sistemas <br>
-Cargo: Analista Desenvolvedor III <br>
+Cargo: Analista Desenvolvedor Pleno <br>
 Início: 09/2019
 
 ### Onde me achar:
