@@ -11,7 +11,7 @@
   - javascript React.js/react-native
   - Azure CI + CD + AKS
 
-- Currently studying Analysis and Development of Systems at Instituto Federal de Santa Catarina
+- Studied Analysis and Development of Systems at Instituto Federal de Santa Catarina
 
 - A little bit of independent studying
   - Augmented reality for apps
